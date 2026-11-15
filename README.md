@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=nisha780nt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104905535%3Fv%3D4" alt="nisha780nt hero visual" />
 </p>
 
-**Nishant** · Product-minded developer
+**bokachoda** · Product-minded developer
 
 ## Operating principles
 
