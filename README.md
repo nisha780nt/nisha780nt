@@ -1,11 +1,48 @@
-- 👋 Hi, I’m @nisha780nt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Delivery pipeline
 
-<!---
-nisha780nt/nisha780nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-can you teach me hacking,plezz
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=nisha780nt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104905535%3Fv%3D4" alt="nisha780nt hero visual" />
+</p>
+
+**Nishant** · Product-minded developer
+
+## Operating principles
+
+<pre><code>ROLE        = Product-minded developer
+LOCATION    = India
+PUBLIC_REPOS = 1
+COMMUNITY   = 0 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Uptime in motion
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nisha780nt&theme=github-dark" alt="nisha780nt contribution activity" />
+</p>
+
+## Service signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=nisha780nt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104905535%3Fv%3D4" alt="nisha780nt stats visual" />
+</p>
+
+<p><code>0 contributions</code> · <code>0 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[nisha780nt](https://github.com/nisha780nt/nisha780nt)** — Config files for my GitHub profile. · ⭐ 0
+
+## Platform toolkit
+
+No public language data yet — building the first project in the open.
+
+## Keep it moving
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=nisha780nt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104905535%3Fv%3D4" alt="nisha780nt social visual" />
+</p>
+
+<a href="https://github.com/nisha780nt">GitHub</a>
+
+<p align="center"><sub>Nishant · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
