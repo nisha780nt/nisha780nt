@@ -45,4 +45,3 @@ No public language data yet — building the first project in the open.
 
 <a href="https://github.com/nisha780nt">GitHub</a>
 
-<p align="center"><sub>Nishant · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
